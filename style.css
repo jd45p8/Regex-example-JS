@@ -9,10 +9,18 @@ body {
     display: flex;
 }
 
+.background {
+    background-image: url("https://images.unsplash.com/reserve/aOcWqRTfQ12uwr3wWevA_14401305508_804b300054_o.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .box {
     width: 90%;
     height: fit-content;
     margin: auto;
+    background-color: #ffffffb8 !important;
 }
 
 
